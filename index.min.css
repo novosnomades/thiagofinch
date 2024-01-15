@@ -539,7 +539,7 @@ body {
 }
 @media (max-width: 767.98px) {
   .hero {
-    background-image: url(../images/hero-bg-mobile.png);
+    background-image: src="hero-bg-mobile.png";
   }
 }
 .hero__bg {
